@@ -19,9 +19,6 @@
 
 ## 🎭 Kerberos Attacks
 - [ ] Attacking Kerberos — https://tryhackme.com/room/attackingkerberos
-- [ ] Kerberoasting — https://tryhackme.com/room/kerberoasting
-- [ ] AS-REP Roasting — https://tryhackme.com/room/asreproasting
-
 ---
 
 ## 🔐 Credential Abuse
