@@ -14,9 +14,7 @@
 ---
 
 ## 🚪 Initial Access
-- [ ] Breaching Active Directory — https://tryhackme.com/room/breachingad
-- [ ] Phishing — https://tryhackme.com/room/phishingemails1
-
+- [X] Breaching Active Directory — https://tryhackme.com/room/breachingad
 ---
 
 ## 🎭 Kerberos Attacks
