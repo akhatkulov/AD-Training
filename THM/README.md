@@ -28,10 +28,10 @@
 ---
 
 ## 🧪 Realistic AD Attack Labs
-- [ ] Attacktive Directory — https://tryhackme.com/room/attacktivedirectory
-- [ ] Steel Mountain — https://tryhackme.com/room/steelmountain
-- [ ] Blue Print — https://tryhackme.com/room/blueprint
-- [ ] Relevant — https://tryhackme.com/room/relevant
+- [X] Attacktive Directory — https://tryhackme.com/room/attacktivedirectory
+- [X] Steel Mountain — https://tryhackme.com/room/steelmountain
+- [X] Blue Print — https://tryhackme.com/room/blueprint
+- [X] Relevant — https://tryhackme.com/room/relevant
 - [ ] Enterprise — https://tryhackme.com/room/enterprise
 - [ ] Ra — https://tryhackme.com/room/ra
 - [ ] Jeff — https://tryhackme.com/room/jeff
