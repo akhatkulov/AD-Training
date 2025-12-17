@@ -2,16 +2,14 @@
 *(2025-yil noyabr holati)*
 
 ## 🟩 Fundamentals
-- [ ] Active Directory Basics — https://tryhackme.com/room/activedirectorybasics
-- [ ] Introduction to Active Directory — https://tryhackme.com/room/introductiontoactivedirectory
-- [ ] Windows Fundamentals 1 — https://tryhackme.com/room/windowsfundamentals1xbx
-- [ ] Windows Fundamentals 2 — https://tryhackme.com/room/windowsfundamentals2x0x
-- [ ] Windows Fundamentals 3 — https://tryhackme.com/room/windowsfundamentals3x0x
+- [X] Windows Fundamentals 1 — https://tryhackme.com/room/windowsfundamentals1xbx
+- [X] Windows Fundamentals 2 — https://tryhackme.com/room/windowsfundamentals2x0x
+- [X] Windows Fundamentals 3 — https://tryhackme.com/room/windowsfundamentals3x0x
 
 ---
 
 ## 🔍 Enumeration & Recon
-- [ ] Enumerating Active Directory — https://tryhackme.com/room/adenumeration
+- [X] Enumerating Active Directory — https://tryhackme.com/room/adenumeration
 - [ ] BloodHound — https://tryhackme.com/room/bloodhound
 - [ ] Intermediate BloodHound — https://tryhackme.com/room/bloodhound2
 
