@@ -23,7 +23,7 @@
 ---
 
 ## 🚨 Privesc & Misconfig
-- [ ] Windows Privilege Escalation — https://tryhackme.com/room/windowsprivesc20
+- [X] Windows Privilege Escalation — https://tryhackme.com/room/windowsprivesc20
 
 ---
 
