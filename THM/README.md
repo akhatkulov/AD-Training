@@ -10,8 +10,6 @@
 
 ## 🔍 Enumeration & Recon
 - [X] Enumerating Active Directory — https://tryhackme.com/room/adenumeration
-- [ ] BloodHound — https://tryhackme.com/room/bloodhound
-- [ ] Intermediate BloodHound — https://tryhackme.com/room/bloodhound2
 
 ---
 
