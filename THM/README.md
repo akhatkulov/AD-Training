@@ -19,37 +19,11 @@
 
 ## 🎭 Kerberos Attacks
 - [ ] Attacking Kerberos — https://tryhackme.com/room/attackingkerberos
----
-
-## 🔐 Credential Abuse
-- [ ] Credential Hunting — https://tryhackme.com/room/credentialhunting
-- [ ] Dumping NTDS.dit — https://tryhackme.com/room/ntds
-- [ ] Pass the Hash — https://tryhackme.com/room/passthehash
-- [ ] Responder — https://tryhackme.com/room/responder
-- [ ] Mimikatz — https://tryhackme.com/room/mimikatz
 
 ---
 
 ## 🚨 Privesc & Misconfig
 - [ ] Windows Privilege Escalation — https://tryhackme.com/room/windowsprivesc20
-
----
-
-## 💥 Known AD Exploits
-- [ ] ZeroLogon — https://tryhackme.com/room/zerologon
-- [ ] PrintNightmare — https://tryhackme.com/room/printnightmare
-- [ ] PetitPotam — https://tryhackme.com/room/petitpotam
-
----
-
-## 🔄 Lateral Movement
-- [ ] Lateral Movement — https://tryhackme.com/room/lateralmovement
-- [ ] WinRM — https://tryhackme.com/room/winrm
-
----
-
-## 🧬 Persistence
-- [ ] AD Persistence — https://tryhackme.com/room/adpersistence
 
 ---
 
