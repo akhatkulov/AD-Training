@@ -34,7 +34,6 @@
 - [X] Relevant — https://tryhackme.com/room/relevant
 - [ ] Enterprise — https://tryhackme.com/room/enterprise
 - [ ] Ra — https://tryhackme.com/room/ra
-- [ ] Jeff — https://tryhackme.com/room/jeff
 
 ---
 
