@@ -36,7 +36,7 @@
 - [ ] Ra — https://tryhackme.com/room/ra
 
 ## Other machines
-- [ ] VulnNet:Active https://tryhackme.com/room/vulnnetactive
+- [X] VulnNet:Active https://tryhackme.com/room/vulnnetactive
 ---
 
 ## 🟥 Red Team Path
