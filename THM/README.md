@@ -38,8 +38,8 @@
 ---
 
 ## 🟥 Red Team Path
-- [ ] Red Team Fundamentals — https://tryhackme.com/room/redteamfundamentals
-- [ ] Red Team Engagements — https://tryhackme.com/room/redteamengagements
+- [X] Red Team Fundamentals — https://tryhackme.com/room/redteamfundamentals
+- [X] Red Team Engagements — https://tryhackme.com/room/redteamengagements
 
 ---
 
