@@ -18,7 +18,7 @@
 ---
 
 ## 🎭 Kerberos Attacks
-- [ ] Attacking Kerberos — https://tryhackme.com/room/attackingkerberos
+- [X] Attacking Kerberos — https://tryhackme.com/room/attackingkerberos
 
 ---
 
