@@ -35,12 +35,12 @@
 - [ ] Enterprise — https://tryhackme.com/room/enterprise
 - [ ] Ra — https://tryhackme.com/room/ra
 
+## Other machines
+- [ ] VulnNet:Active https://tryhackme.com/room/vulnnetactive
 ---
 
 ## 🟥 Red Team Path
 - [X] Red Team Fundamentals — https://tryhackme.com/room/redteamfundamentals
 - [X] Red Team Engagements — https://tryhackme.com/room/redteamengagements
 
----
 
-✅ **Jami: 29 ta public, faol, ishlaydigan AD Red Team rooms**
