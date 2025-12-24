@@ -33,7 +33,7 @@
 - [X] Blue Print — https://tryhackme.com/room/blueprint
 - [X] Relevant — https://tryhackme.com/room/relevant
 - [X] Enterprise — https://tryhackme.com/room/enterprise
-- [ ] Ra — https://tryhackme.com/room/ra
+- [X] Ra — https://tryhackme.com/room/ra
 
 ## Other machines
 - [X] VulnNet:Active https://tryhackme.com/room/vulnnetactive
