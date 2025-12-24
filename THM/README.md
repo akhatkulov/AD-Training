@@ -32,7 +32,7 @@
 - [X] Steel Mountain — https://tryhackme.com/room/steelmountain
 - [X] Blue Print — https://tryhackme.com/room/blueprint
 - [X] Relevant — https://tryhackme.com/room/relevant
-- [ ] Enterprise — https://tryhackme.com/room/enterprise
+- [X] Enterprise — https://tryhackme.com/room/enterprise
 - [ ] Ra — https://tryhackme.com/room/ra
 
 ## Other machines
