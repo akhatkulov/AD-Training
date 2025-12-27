@@ -9,8 +9,9 @@
 ---
 
 ## 🔍 Enumeration & Recon
-- [X] Enumerating Active Directory — https://tryhackme.com/room/adenumeration
-
+- [X] AD: Basic Enumeration —  https://tryhackme.com/room/adbasicenumeration 
+- [X] Enumerating Active Directory — https://tryhackme.com/room/adenumeration 
+- [ ] AD: Authenficated Enumeration — https://tryhackme.com/room/adauthenticatedenumeration
 ---
 
 ## 🚪 Initial Access
@@ -37,6 +38,9 @@
 
 ## Other machines
 - [X] VulnNet:Active https://tryhackme.com/room/vulnnetactive
+
+## Skill
+- [ ] Writing Reports -- https://tryhackme.com/room/writingpentestreports
 ---
 
 ## 🟥 Red Team Path
