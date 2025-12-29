@@ -40,7 +40,7 @@
 - [X] VulnNet:Active https://tryhackme.com/room/vulnnetactive
 
 ## Skill
-- [ ] Writing Reports -- https://tryhackme.com/room/writingpentestreports
+- [X] Writing Reports -- https://tryhackme.com/room/writingpentestreports
 ---
 
 ## 🟥 Red Team Path
