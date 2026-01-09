@@ -11,7 +11,7 @@
 ## 🔍 Enumeration & Recon
 - [X] AD: Basic Enumeration —  https://tryhackme.com/room/adbasicenumeration 
 - [X] Enumerating Active Directory — https://tryhackme.com/room/adenumeration 
-- [ ] AD: Authenficated Enumeration — https://tryhackme.com/room/adauthenticatedenumeration
+- [X] AD: Authenficated Enumeration — https://tryhackme.com/room/adauthenticatedenumeration
 ---
 
 ## 🚪 Initial Access
@@ -38,7 +38,12 @@
 
 ## Other machines
 - [X] VulnNet:Active https://tryhackme.com/room/vulnnetactive
-
+- [X] Reset https://tryhackme.com/room/resetui
+- [X] Ledger https://tryhackme.com/room/ledger
+- [X] K2 https://tryhackme.com/room/k2room
+- [ ] Red Team Capstone Challenge https://tryhackme.com/room/redteamcapstonechallenge
+- [ ] Bandit https://tryhackme.com/room/bandit
+- [ ] Holo https://tryhackme.com/room/hololive
 ## Skill
 - [X] Writing Reports -- https://tryhackme.com/room/writingpentestreports
 ---
