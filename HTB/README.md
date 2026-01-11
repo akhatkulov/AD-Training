@@ -6,7 +6,7 @@
 
 | ☐ | Machine Name | Difficulty | Release Date | Link                                                                               |
 | - | ------------ | ---------- | ------------ | ---------------------------------------------------------------------------------- |
-| ☐ | Fluffy       | Easy       | 24 May 2025  | [https://app.hackthebox.com/machines/662](https://app.hackthebox.com/machines/662) |
+| X | Fluffy       | Easy       | 24 May 2025  | [https://app.hackthebox.com/machines/662](https://app.hackthebox.com/machines/662) |
 | ☐ | EscapeTwo    | Easy       | 11 Jan 2025  | [https://app.hackthebox.com/machines/642](https://app.hackthebox.com/machines/642) |
 | ☐ | Cicada       | Easy       | 28 Sep 2024  | [https://app.hackthebox.com/machines/627](https://app.hackthebox.com/machines/627) |
 | ☐ | Support      | Easy       | 30 Jul 2022  | [https://app.hackthebox.com/machines/484](https://app.hackthebox.com/machines/484) |
